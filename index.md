@@ -1,86 +1,108 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aurelian Shuttleworth's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aurelian Shuttleworth
+SDE and Technical Specialist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="aureliansh@gmail.com">aureliansh@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working as an remote acting SDE  in cape town for the Seattle based AWS EC2 Abuse Development Team focusing on development of case management and threat intelligence processing. 
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Specialised in
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`-2009`
+__Somerset Collage__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2009 - 2012`
+__Natural Learning Academy__
 
-- Sizar
+Subjects:
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+* Maths Pure
+* IT (Java)
+* Digital Design
+* Photography
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2005`: FLL Robotics
+__FLL Robotics Regional Championships Programming Award__
 
-Associate, *French Academy of Science*, Paris, France
+Award for the robot with the best programming
 
+`2006`: FLL Robotics
+__Lego League Provincial Finals Programming Award__
 
+Award for the robot with the best programming.
 
-## Publications
+`2007`: FLL Robotics
+__Lego League Provincial Finals Performance Award__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Award for robot with the best performance on the competition board.
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2005 - 2009`
+__Computer Spark__, Somerset West
 
-- Warden
-- Minted coins
+Freelance Technician building computers for clients and repair work along with occasional graphic design jobs.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2013 - 2013`
+__Coffee dot com__, Gordon's Bay
+
+Head Technician handling Repairs,Sales and call outs.
+
+`2013 - 2015`
+__HX Systems__, Somerset West
+
+Oncall technician operating as an general IT specialist supporting home and SME customer with network infrastructure and server deployments. 
+
+ `2015 - 2016`
+__HX Systems__, Somerset West
+
+___IT support Manager___
+
+* Ownership of internal IT infrastructure
+* Ownership of core network Sec Ops tasks
+* Provide direct support to Technical Director 
+* Management of Customer service.
+* Evaluates expansions or enhancements by analysing customer workloads.
+* Evaluates vendor-supplied software by studying user objectives; testing software compatibility with existing hardware and programs.
+* Contributes to team effort by accomplishing related results as needed.
+* Remain on continuous standby for network failures.
+
+ `2016 - 2019`
+__Amazon Web Services__, Cape Town
+
+___Technical Customer Support Specialist___
+
+* Built Automation to parse 14% emails per week eliminating the need for additional headcount.
+* Built various Scripts in Python, Java and JS to programmatically handle events otherwise requiring multiple skilled agents multiple hours of repetitive work.
+* In recognition of my scripting skills and subject matter expertise, I was sent to Seattle to work with the EC2 Core Team on a large scale software development project.
+* Identify abusive trends on the platform by means of data analysis and SQL queries. Developed automated functions to identify and mitigate attack vectors.
+* Built alarm systems to identify and analyse malware affecting AWS users.
+* Built reporting systems to consolidate customer feedback into actionable data.
+* Built dashboards to display critical data in easy to digest charts, graphs and tables.
+* Collaborate with various teams and stakeholders to make improvements.
+* Work all escalated case types - List bombing, DDoS, Bad Actors, Third Party Blacklisting, Law/Government Enforcement requests, etc.
+* First responder in high impact security/abuse events to secure or mitigate the impact
+* Creating of Standard Operating Procedures, best practices and tooling improvements. 
+
+ `2019 - Current`
+__Amazon Web Services__, Remote
+
+___Acting Software Development Engineer___
 
 
 
