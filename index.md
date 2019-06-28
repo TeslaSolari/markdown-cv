@@ -1,85 +1,113 @@
 ---
-layout: default
+layout: cv
+title: Aurelian Shuttleworth's CV
 ---
+# Aurelian Shuttleworth
+SDE and Technical Specialist
 
-Tired of using LaTeX to make your CV look pretty? Can't remember how to set margins in your TeX file? Refusing to compromise and "just use Word"?
-
-[markdown-cv](http://elipapa.github.io/markdown-cv/) is a simple template to list all your accomplishments in a readable Markdown file. It uses CSS to style your text into a stylish web page. It can also be printed as PDF.
-
-### what does that mean?
-
-Write your CV like this...
-
-<img src="img/mdown.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
-
-and use [jekyll](https://jekyllrb.com/) or [github pages](https://pages.github.com/) to make it look like this..
-
-<img src="img/output.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+<div id="webaddress">
+<a href="aureliansh@gmail.com">aureliansh@gmail.com</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
 
 
+## Currently
 
-## Usage
+Working as an remote acting SDE  in cape town for the Seattle based AWS EC2 Abuse Development Team focusing on development of case management and threat intelligence processing. 
 
-To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
-
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
-
-and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
-
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
-
-adding your skills, jobs and education.
-
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
-
-To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
-
-### 1) Using Github Pages to publish it online
-
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
-2. Create a new branch called `gh-pages` (which will then be a copy of master)
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
-
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
-
-### 2) Build it locally
-1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
-2. Clone your fork on your computer
-3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
-4. You can edit the `index.md` file and see changes live in your browser.
-
-## How do I print the PDF?
-Whether you used Github Pages or a local installation of Jekyll, to print a PDF just press *Print* in your browser. Print specific [CSS media queries](http://www.joshuawinn.com/css-print-media-query/) will take care of the styling.
-
-## is this the only style available?
-
-The included CSS renders your CV in different styles:
-
-- `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita)
-
-<img src="img/styles/kjhealy.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
-
-- `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned, authored by [David Whipp](https://davewhipp.github.io/markdown-cv/)
-
-<img src="img/styles/davewhipp.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
-
-To change the default style, one needs to simply change `site` the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
+### Specialised in
 
 
+## Education
 
-### Author
+`-2009`
+__Somerset Collage__
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
+`2009 - 2012`
+__Natural Learning Academy__
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+Subjects:
 
-### License
+* Maths Pure
+* IT (Java)
+* Digital Design
+* Photography
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+## Awards
 
-<a href="https://github.com/elipapa/markdown-cv" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+`2005`: FLL Robotics
+__FLL Robotics Regional Championships Programming Award__
+
+Award for the robot with the best programming
+
+`2006`: FLL Robotics
+__Lego League Provincial Finals Programming Award__
+
+Award for the robot with the best programming.
+
+`2007`: FLL Robotics
+__Lego League Provincial Finals Performance Award__
+
+Award for robot with the best performance on the competition board.
+
+
+## Occupation
+
+`2005 - 2009`
+__Computer Spark__, Somerset West
+
+Freelance Technician building computers for clients and repair work along with occasional graphic design jobs.
+
+`2013 - 2013`
+__Coffee dot com__, Gordon's Bay
+
+Head Technician handling Repairs,Sales and call outs.
+
+`2013 - 2015`
+__HX Systems__, Somerset West
+
+Oncall technician operating as an general IT specialist supporting home and SME customer with network infrastructure and server deployments. 
+
+ `2015 - 2016`
+__HX Systems__, Somerset West
+
+___IT support Manager___
+
+* Ownership of internal IT infrastructure
+* Ownership of core network Sec Ops tasks
+* Provide direct support to Technical Director 
+* Management of Customer service.
+* Evaluates expansions or enhancements by analysing customer workloads.
+* Evaluates vendor-supplied software by studying user objectives; testing software compatibility with existing hardware and programs.
+* Contributes to team effort by accomplishing related results as needed.
+* Remain on continuous standby for network failures.
+
+ `2016 - 2019`
+__Amazon Web Services__, Cape Town
+
+___Technical Customer Support Specialist___
+
+* Built Automation to parse 14% emails per week eliminating the need for additional headcount.
+* Built various Scripts in Python, Java and JS to programmatically handle events otherwise requiring multiple skilled agents multiple hours of repetitive work.
+* In recognition of my scripting skills and subject matter expertise, I was sent to Seattle to work with the EC2 Core Team on a large scale software development project.
+* Identify abusive trends on the platform by means of data analysis and SQL queries. Developed automated functions to identify and mitigate attack vectors.
+* Built alarm systems to identify and analyse malware affecting AWS users.
+* Built reporting systems to consolidate customer feedback into actionable data.
+* Built dashboards to display critical data in easy to digest charts, graphs and tables.
+* Collaborate with various teams and stakeholders to make improvements.
+* Work all escalated case types - List bombing, DDoS, Bad Actors, Third Party Blacklisting, Law/Government Enforcement requests, etc.
+* First responder in high impact security/abuse events to secure or mitigate the impact
+* Creating of Standard Operating Procedures, best practices and tooling improvements. 
+
+ `2019 - Current`
+__Amazon Web Services__, Remote
+
+___Acting Software Development Engineer___
+
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+
